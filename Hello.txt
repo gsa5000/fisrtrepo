@@ -3,8 +3,4 @@
 dadfdsad
 안아
 줘요
-<<<<<<< HEAD
-gsfggfsgs
-=======
- 수정
->>>>>>> 781f0efafa44054df06a89717efe30fe39580776
+두번째 수정
